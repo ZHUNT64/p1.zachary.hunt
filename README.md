@@ -10,4 +10,4 @@ As you can see, the elevator in question has some issues. The buttons are very h
 
 In my concept, making the buttons clearer and circular with the braille located directly on the button would help with usability. This makes the interface user friednly as the buttons and text have high contrast with the surrounding area making it far easier to see. The buttons would not have a separate label. The most common action in an elevator is pressing the button for the floor you want to go to, making them as clear as possible allows for the user to figure out how the interface works far quicker, making it more efficient.
 
-![alt text](https://github.com/ZHUNT64/p1.zachary.hunt/blob/main/interfaceGIF.gif?raw=true)
+![alt text](https://github.com/ZHUNT64/p1.zachary.hunt/blob/main/InterfaceGif.gif?raw=true)
